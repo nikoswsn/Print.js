@@ -40,6 +40,7 @@ export default {
       style: null,
       scanStyles: true,
       base64: false,
+      pageStyle: 'size: A4',
 
       // Deprecated
       onPdfOpen: null,
